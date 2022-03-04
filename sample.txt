@@ -1,5 +1,0 @@
-pip install --requirements
-
-flask
-numpy
-bs4
